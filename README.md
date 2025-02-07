@@ -13,7 +13,7 @@ This project is heavily inspired by Conway's Game of Life, which is a well-known
 ## Demo Video:
 Watch the animation in action:
 
-[![Demo Video](https://i.imgur.com/B5fdKyc.mp4)](https://i.imgur.com/B5fdKyc.mp4)
+[![Watch Demo](https://imgur.com/B5fdKyc.jpg)](https://i.imgur.com/B5fdKyc.mp4)
 
 ## License:
 This project is licensed under the MIT License. See the LICENSE file for more details.
