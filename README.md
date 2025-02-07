@@ -6,12 +6,14 @@ VivaCell is a Haskell-based cellular automaton that draws inspiration from Conwa
 - Cellular automaton running on a grid of cells that evolve over time.
 - Colorful animations that run indefinitely until stopped.
 - User can interact by drawing on the grid and starting the simulation.
-  
+
 ## Inspirations:
 This project is heavily inspired by Conway's Game of Life, which is a well-known example of a cellular automaton. It was built to get familiar with Haskell's strengths and libraries like `Graphics.Gloss`.
 
 ## Video Demo:
-[Watch the animation in action](VivaCell.webm)
+Watch the animation in action:
+
+![VivaCell Demo](VivaCell.webm)
 
 ## License:
 This project is licensed under the MIT License. See the LICENSE file for more details.
